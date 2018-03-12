@@ -20,7 +20,8 @@ function deepestChild(){
   
   while (next){
     current=next
-    next
+    next = node.children[0]
+  
   }
   
 }

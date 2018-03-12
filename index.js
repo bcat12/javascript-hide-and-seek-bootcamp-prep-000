@@ -1,5 +1,5 @@
 function getFirstSelector(selector){
-  
+  querysel
 }
 
 function nestedTarget(){
